@@ -3,7 +3,8 @@ const assets = [
   '/',
   '/index.html',
   '/app.js',
-  '/style.css'
+  '/style.css',
+  '/bg.jpg'
 ];
 
 // install event
